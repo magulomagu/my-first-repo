@@ -1,2 +1,2 @@
 # my-first-repo
-初めてのGitHubリポジトリ
+ 初めてのGitHubリポジトリ
